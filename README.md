@@ -1,5 +1,4 @@
 # Video-Processing-Shorts-Generator
-# Video Processing: Shorts Generator
 
 ## Overview
 This project generates a captivating 30-second short video from a longer input video. The output video is formatted for social media platforms like Instagram Reels, YouTube Shorts, and TikTok, with an aspect ratio of 9:16. It includes:
